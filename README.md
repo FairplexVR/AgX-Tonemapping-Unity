@@ -4,7 +4,7 @@
 
 ### What is this?
 
-AgX is the new color transform introduced in Blender 4.0, surpassing Filmic and ACES in many aspects. This repository contains a collection of AgX LUTs that are compatible with Unity BIRP, URP, and HDRP.
+AgX is the new color transform introduced in Blender 4.0, surpassing Filmic and ACES in many aspects. This repository contains a collection of AgX LUTs that are compatible with Unity BIRP and HDRP only. (Sorry URP!)
 
 This Unity pack is inspired by the original [AgX by Troy Sobotka](https://github.com/sobotka/AgX) and the [Blender AgX implementation](https://github.com/EaryChow/AgX). The LUTs in the pack are configured to provide visual consistency with Blender's OCIO presets:
 
