@@ -1,0 +1,16 @@
+{
+  "name": "com.fairplex.agx",
+  "displayName": "AgX Tonemapping",
+  "version": "1.0.0",
+  "description": "AgX Tonemapping for Unity",
+  "author": {
+    "name": "Fairplex",
+    "url": "https://github.com/FairplexVR/AgX-Tonemapping-Unity"
+  },
+  "unity": "2022.3",
+  "dependencies": {},
+  "directories": {
+    "package": "Fairplex/AgX Tonemapping"
+  },
+  "license": "MIT"
+}

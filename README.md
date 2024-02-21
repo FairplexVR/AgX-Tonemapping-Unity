@@ -18,7 +18,7 @@ This Unity pack is inspired by the original [AgX by Troy Sobotka](https://github
 - Punchy
 - Greyscale
 
-Check out the [Blender release notes](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0/Color_Management) for more information about AgX.
+Check out the [Blender release notes](https://developer.blender.org/docs/release_notes/4.0/color_management/) for more information about AgX.
 
 ### Achieving a 1:1 View Transform between Blender 4.0 and Unity!
 
